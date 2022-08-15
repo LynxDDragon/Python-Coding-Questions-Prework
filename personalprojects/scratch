@@ -1,0 +1,4 @@
+def first_odds():
+    odd_numbers= list(range(1,100))
+    print(odd_numbers)
+first_odds()
